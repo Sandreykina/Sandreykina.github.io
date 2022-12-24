@@ -1,0 +1,13 @@
+{
+  "name": "react-site-api",
+  "version": "1.0.0",
+  "dependencies": {
+    "config": "^3.3.7",
+    "express": "^4.17.1",
+    "cors": "^2.8.5",
+    "mongodb": "^4.12.1"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
